@@ -37,4 +37,4 @@ The 2024 AMC 8 was more than just a competition; it was a celebration of mathema
 
 ### PS
 thats half of the questions, join our discord for more info.
-[contact info](./contact)
+[contact info](/post/contact)

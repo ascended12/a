@@ -22,4 +22,4 @@ not really. leaking devalues the test, something that neither of us want.
 
 ## contact
 
-read the [contact](./contact) article
+read the [contact](/post/contact) article

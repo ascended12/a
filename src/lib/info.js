@@ -3,7 +3,7 @@
 // feel free to remove this file.
 
 // URL of your website
-export const website = ''
+export const website = 'https://discord.gg/XdjsdPxPxZ'
 export const name = 'Olycraft Olympiad'
 
 // Used for the landing page & footer of posts
